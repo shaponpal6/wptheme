@@ -1,4 +1,4 @@
-# Copyright (C) 2021 firsttheme
+# Copyright (C) 2018 firsttheme
 # This file is distributed under the same license as the firsttheme package.
 msgid ""
 msgstr ""
@@ -8,16 +8,24 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
-"X-Poedit-SearchPath-0: .\n"
-"X-Poedit-SearchPathExcluded-0: *.js\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: \n"
+"Language: de_DE\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
 
 #: 404.php:6
 msgid "Nothing found here, maybe you can try to search?"
 msgstr ""
 
-#: archive-_themename_portfolio.php:12, taxonomy-_themename_project_type.php:12, taxonomy-_themename_skills.php:12, template-parts/post/content-none.php:1
+#: archive-firsttheme_portfolio.php:12,
+#: taxonomy-firsttheme_project_type.php:12, taxonomy-firsttheme_skills.php:12,
+#: template-parts/post/content-none.php:1
 msgid "Sorry, no posts matched your criteria."
 msgstr ""
 
@@ -45,6 +53,25 @@ msgstr ""
 
 #: header.php:26
 msgid "Main Navigation"
+msgstr ""
+
+#: search.php:8
+msgid "Search results for: %s"
+msgstr ""
+
+#: searchform.php:3
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:4
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:6
+msgctxt "submit button"
+msgid "Search"
 msgstr ""
 
 #: lib/comment-callback.php:9
@@ -135,7 +162,7 @@ msgstr ""
 
 #: lib/helpers.php:23
 msgid "Read More <span class=\"u-screen-reader-text\">About %s</span>"
-msgstr ""
+msgstr "Lesen Sie mehr <span class=\"u-screen-reader-text\">über %s</span>"
 
 #: lib/helpers.php:42
 msgid "Delete Post"
@@ -225,31 +252,14 @@ msgstr ""
 msgid "Footer widgets"
 msgstr ""
 
-#: page-templates/page-blank.php:3
+#: page-templates/page-blank.php:3,
+#: packaged/firsttheme/page-templates/page-blank.php:3
 msgid "Blank"
 msgstr ""
 
-#: page-templates/page-full.php:3
+#: page-templates/page-full.php:3,
+#: packaged/firsttheme/page-templates/page-full.php:3
 msgid "Full Width Page"
-msgstr ""
-
-#: search.php:8
-msgid "Search results for: %s"
-msgstr ""
-
-#: searchform.php:3
-msgctxt "label"
-msgid "Search for:"
-msgstr ""
-
-#: searchform.php:4
-msgctxt "placeholder"
-msgid "Search &hellip;"
-msgstr ""
-
-#: searchform.php:6
-msgctxt "submit button"
-msgid "Search"
 msgstr ""
 
 #. translators: used betweeen categories

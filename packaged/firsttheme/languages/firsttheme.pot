@@ -17,7 +17,7 @@ msgstr ""
 msgid "Nothing found here, maybe you can try to search?"
 msgstr ""
 
-#: archive-_themename_portfolio.php:12, taxonomy-_themename_project_type.php:12, taxonomy-_themename_skills.php:12, template-parts/post/content-none.php:1
+#: archive-firsttheme_portfolio.php:12, taxonomy-firsttheme_project_type.php:12, taxonomy-firsttheme_skills.php:12, template-parts/post/content-none.php:1
 msgid "Sorry, no posts matched your criteria."
 msgstr ""
 
